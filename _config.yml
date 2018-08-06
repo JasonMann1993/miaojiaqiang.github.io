@@ -10,7 +10,7 @@ keywords:
 author: MJ
 language: zh-CN
 timezone: Asia/Shanghai
-avatar: /images/logo.jpg
+avatar: /source/logo.jpg
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://miaojiaqiang.github.io/m
@@ -88,9 +88,9 @@ search:
   format: html
   limit: 10000
 # 打赏
-reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
-wechatpay: https://s1.ax1x.com/2018/08/06/PruYnJ.png
-alipay: https://s1.ax1x.com/2018/08/06/PruGX4.jpg
+#reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+#wechatpay: https://s1.ax1x.com/2018/08/06/PruYnJ.png
+#alipay: https://s1.ax1x.com/2018/08/06/PruGX4.jpg
 # 自动生成sitemap
 sitemap:
   path: sitemap.xml
